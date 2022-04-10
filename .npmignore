@@ -1,0 +1,10 @@
+.git
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.npmrc
+node_modules/
+build/
+docs/
+page-source/
